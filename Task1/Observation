@@ -1,3 +1,5 @@
+Dealing with multiple thingd at one time its a concurrency,here I tried to understand this dealing with asyncio library with the 
+help of python script .
 Concurrency can be implemented and is used a lot on single processing units, 
 nonetheless it may benefit from multiple processing units with respect to speed. 
 If an operating system is called a multi-tasking operating system, this is a synonym for supporting concurrency.
