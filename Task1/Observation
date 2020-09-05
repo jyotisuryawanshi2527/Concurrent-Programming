@@ -1,0 +1,11 @@
+Concurrency can be implemented and is used a lot on single processing units, 
+nonetheless it may benefit from multiple processing units with respect to speed. 
+If an operating system is called a multi-tasking operating system, this is a synonym for supporting concurrency.
+If you can load multiple documents simultaneously in the tabs of your browser and you can still open menus and perform more actions, 
+this is concurrency. If you run distributed-net computations in the background, that is concurrency.
+Two tasks T1 and T2 are concurrent if the order in which the two tasks are executed in time is not predetermined,
+T1 may be executed and finished before T2,
+T2 may be executed and finished before T1,
+T1 and T2 may be executed simultaneously at the same instance of time (parallelism),
+
+T1 and T2 may be executed alternatively.
